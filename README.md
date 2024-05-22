@@ -25,7 +25,7 @@ This repository contains the audit reports for Adrastia.
 - Date: 03-MAY-2024 & 11-MAY-2024
 - Reports:
   - adrastia-core: [External-Oracles-Omniscia.pdf](./11-MAY-2024/External-Oracles-Omniscia.pdf)
-  - adrastia-periphery: [ManagedAdrastiaPriceAccumulator-Omniscia.pdf](./11-MAY-2024/ManagedAdrastiaPriceAccumulator-Omniscia.pdf)
+  - adrastia-periphery: [ManagedAdrastiaPriceAccumulator-Omniscia.pdf](./03-MAY-2024/ManagedAdrastiaPriceAccumulator-Omniscia.pdf)
 - Scope
   - adrastia-core
     - contracts/oracles/AbstractOracle.sol
