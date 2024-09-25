@@ -6,6 +6,13 @@ This repository contains the audit reports for Adrastia.
 
 ### v4
 
+#### v4.9 - SAVPriceAccumulator
+- Date: 11-SEP-2024
+- Report: [SAVPriceAccumulator-Omniscia.pdf](./11-SEP-2024/SAVPriceAccumulator-Omniscia.pdf)
+- Scope
+  - adrastia-core
+    - contracts/accumulators/proto/erc4626/SAVPriceAccumulator.sol
+
 #### v4.4.0 - PID controllers, value & error accumulators, and related contracts
 - Date: 09-MAY-2024
 - Report: [PID-controller-Zellic.pdf](./09-MAY-2024/PID-controller-Zellic.pdf)
